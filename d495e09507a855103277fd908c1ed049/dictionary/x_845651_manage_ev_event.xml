@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Event " max_length="40" name="x_845651_manage_ev_event" type="collection">
+        <element label="Date" max_length="40" name="date" type="due_date"/>
+        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Other" max_length="1000" name="other" type="string"/>
+        <element label="Proposed By" max_length="100" name="proposed_by" type="string"/>
+        <element choice="1" label="Type of Event" max_length="40" name="type_of_event" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Indoor" value="2"/>
+                <element inactive_on_update="false" label="Online" value="4"/>
+                <element inactive_on_update="false" label="Other" value="1"/>
+                <element inactive_on_update="false" label="Outdoor" value="3"/>
+            </choice>
+        </element>
+    </element>
+</database>

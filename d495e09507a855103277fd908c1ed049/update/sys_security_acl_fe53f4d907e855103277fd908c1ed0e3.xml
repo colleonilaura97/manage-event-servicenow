@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_845651_manage_ev_review</description>
+        <name>x_845651_manage_ev_review</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-06 13:22:24</sys_created_on>
+        <sys_id>fe53f4d907e855103277fd908c1ed0e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_845651_manage_ev_review</sys_name>
+        <sys_package display_value="Manage Events" source="x_845651_manage_ev">d495e09507a855103277fd908c1ed049</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manage Events">d495e09507a855103277fd908c1ed049</sys_scope>
+        <sys_update_name>sys_security_acl_fe53f4d907e855103277fd908c1ed0e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-06 13:22:24</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_845651_manage_ev.event_user" name="x_845651_manage_ev.event_user">2bd6a45d07a855103277fd908c1ed05e</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-06 12:27:51</sys_created_on>
+        <sys_id>fbd6a45d07a855103277fd908c1ed05f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2bd6a45d07a855103277fd908c1ed05e</sys_name>
+        <sys_package display_value="Manage Events" source="x_845651_manage_ev">d495e09507a855103277fd908c1ed049</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Manage Events">d495e09507a855103277fd908c1ed049</sys_scope>
+        <sys_update_name>sys_embedded_help_role_fbd6a45d07a855103277fd908c1ed05f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-06 12:27:51</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
